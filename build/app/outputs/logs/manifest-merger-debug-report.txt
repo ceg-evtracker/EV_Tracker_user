@@ -54,6 +54,7 @@ MERGED from [:firebase_auth] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\bui
 MERGED from [:cloud_firestore] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\cloud_firestore\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:firebase_core] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-17:12
 MERGED from [:fluttertoast] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:path_provider_android] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:smart_auth] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\smart_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\amrit\.gradle\caches\transforms-3\919a844f8f22c40de4634c942ce8d574\transformed\jetified-firebase-auth-ktx-21.1.0\AndroidManifest.xml:2:1-17:12
 MERGED from [com.google.firebase:firebase-common-ktx:20.3.0] C:\Users\amrit\.gradle\caches\transforms-3\8b3f8e26e77eedce86f75977c023f00d\transformed\jetified-firebase-common-ktx-20.3.0\AndroidManifest.xml:2:1-20:12
@@ -125,6 +126,8 @@ MERGED from [:firebase_core] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\bui
 MERGED from [:firebase_core] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\firebase_core\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:fluttertoast] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:fluttertoast] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\fluttertoast\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
+MERGED from [:path_provider_android] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\path_provider_android\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:smart_auth] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\smart_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [:smart_auth] C:\Users\amrit\Documents\GitHub\EV_Tracker_user\build\smart_auth\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-7:41
 MERGED from [com.google.firebase:firebase-auth-ktx:21.1.0] C:\Users\amrit\.gradle\caches\transforms-3\919a844f8f22c40de4634c942ce8d574\transformed\jetified-firebase-auth-ktx-21.1.0\AndroidManifest.xml:5:5-44
