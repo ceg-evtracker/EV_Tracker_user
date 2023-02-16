@@ -67,7 +67,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
     final emailField = TextFormField(
         autofocus: false,
         controller: emailEditingController,
-        keyboardType: TextInputType.emailAddress,
+        keyboardType: TextInputType.phone,
         validator: (value) {
           if (value!.isEmpty) {
             return ("Please Enter Your Email");
@@ -244,6 +244,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
       try {
         await _auth
             .createUserWithEmailAndPassword(email: email, password: password)
+            
             .then((value) => {postDetailsToFirestore()})
             .catchError((e) {
           Fluttertoast.showToast(msg: e!.message);
@@ -276,6 +277,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
       }
     }
   }
+ 
   postDetailsToFirestore() async {
     // calling our firestore
     // calling our user model
