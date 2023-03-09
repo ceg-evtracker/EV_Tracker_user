@@ -106,7 +106,7 @@ class _LoginScreenState extends State<LoginScreen> {
           minWidth: MediaQuery.of(context).size.width,
           onPressed: () async {
             final prefs = await SharedPreferences.getInstance();
-            prefs.setBool('isLoggedIn',true);
+            prefs.setBool('isLoggedIn',false);
             signIn(emailController.text, passwordController.text);
           },
           child: Text(

@@ -67,7 +67,7 @@ class _RegistrationScreenState extends State<RegistrationScreen> {
     final emailField = TextFormField(
         autofocus: false,
         controller: emailEditingController,
-        keyboardType: TextInputType.phone,
+        keyboardType: TextInputType.emailAddress,
         validator: (value) {
           if (value!.isEmpty) {
             return ("Please Enter Your Email");
