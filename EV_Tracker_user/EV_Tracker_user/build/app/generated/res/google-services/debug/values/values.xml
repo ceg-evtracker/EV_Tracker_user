@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">800183678455-kia54kmu62kq72krvgvvm4toh0v07i5e.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">800183678455</string>
+    <string name="google_api_key" translatable="false">AIzaSyDPoRM06PupjfUPjnq1EINQy5-i4kXMUGA</string>
+    <string name="google_app_id" translatable="false">1:800183678455:android:c2cb7d3a2a694a4a486af2</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDPoRM06PupjfUPjnq1EINQy5-i4kXMUGA</string>
+    <string name="google_storage_bucket" translatable="false">cegevtracker.appspot.com</string>
+    <string name="project_id" translatable="false">cegevtracker</string>
+</resources>
