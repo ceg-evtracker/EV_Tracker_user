@@ -1,5 +1,4 @@
 import 'dart:ffi';
-
 import 'package:ceg_ev_user/screens/home_management.dart';
 import 'package:ceg_ev_user/screens/login_screen.dart';
 import 'package:ceg_ev_user/ui/splash.dart';
@@ -7,6 +6,7 @@ import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
+import 'package:web_socket_channel/io.dart';
 
 late SharedPreferences sharedPreferences;
 
