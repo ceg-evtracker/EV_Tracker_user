@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\infan\\OneDrive\\Desktop\\EV_Tracker_user (2)\\EV_Tracker_user\\EV_Tracker_user\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+            "outputFile": "C:\\Users\\skraj\\Desktop\\CTF\\EV_Tracker_user\\EV_Tracker_user\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw600dp-v13\\values-sw600dp-v13.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\infan\\.gradle\\caches\\transforms-3\\956bd2c12aa4b769e0c572934031e3af\\transformed\\appcompat-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\skraj\\.gradle\\caches\\transforms-3\\956bd2c12aa4b769e0c572934031e3af\\transformed\\appcompat-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\infan\\.gradle\\caches\\transforms-3\\2f1ed1e0aa3518446d2d175b82533952\\transformed\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+                    "source": "C:\\Users\\skraj\\.gradle\\caches\\transforms-3\\2f1ed1e0aa3518446d2d175b82533952\\transformed\\material-1.0.0\\res\\values-sw600dp-v13\\values-sw600dp-v13.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,10,11,12",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

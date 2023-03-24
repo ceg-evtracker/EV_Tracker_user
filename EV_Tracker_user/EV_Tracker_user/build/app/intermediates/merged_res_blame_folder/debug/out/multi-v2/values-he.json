@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\infan\\OneDrive\\Desktop\\EV_Tracker_user (2)\\EV_Tracker_user\\EV_Tracker_user\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
+            "outputFile": "C:\\Users\\skraj\\Desktop\\CTF\\EV_Tracker_user\\EV_Tracker_user\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-he\\values-he.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\infan\\.gradle\\caches\\transforms-3\\523ad264a53413e98e7ab3e7eeb959bc\\transformed\\jetified-mapbox-android-sdk-9.6.2\\res\\values-he\\values-he.xml",
+                    "source": "C:\\Users\\skraj\\.gradle\\caches\\transforms-3\\523ad264a53413e98e7ab3e7eeb959bc\\transformed\\jetified-mapbox-android-sdk-9.6.2\\res\\values-he\\values-he.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",

@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\infan\\OneDrive\\Desktop\\EV_Tracker_user (2)\\EV_Tracker_user\\EV_Tracker_user\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
+            "outputFile": "C:\\Users\\skraj\\Desktop\\CTF\\EV_Tracker_user\\EV_Tracker_user\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rCA\\values-en-rCA.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\infan\\.gradle\\caches\\transforms-3\\956bd2c12aa4b769e0c572934031e3af\\transformed\\appcompat-1.0.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\skraj\\.gradle\\caches\\transforms-3\\956bd2c12aa4b769e0c572934031e3af\\transformed\\appcompat-1.0.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -21,24 +21,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\infan\\.gradle\\caches\\transforms-3\\a4c5c816f8126e4dc826dd0348dc00dd\\transformed\\core-1.6.0\\res\\values-en-rCA\\values-en-rCA.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "34",
-                        "startColumns": "4",
-                        "startOffsets": "3249",
-                        "endColumns": "100",
-                        "endOffsets": "3345"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\infan\\.gradle\\caches\\transforms-3\\eb4c9a5c362b85edf7109b37101bd478\\transformed\\browser-1.4.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "source": "C:\\Users\\skraj\\.gradle\\caches\\transforms-3\\eb4c9a5c362b85edf7109b37101bd478\\transformed\\browser-1.4.0\\res\\values-en-rCA\\values-en-rCA.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
@@ -52,6 +35,23 @@
                         "startOffsets": "2764,2862,2959,3068",
                         "endColumns": "97,96,108,98",
                         "endOffsets": "2857,2954,3063,3162"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\skraj\\.gradle\\caches\\transforms-3\\a4c5c816f8126e4dc826dd0348dc00dd\\transformed\\core-1.6.0\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "34",
+                        "startColumns": "4",
+                        "startOffsets": "3249",
+                        "endColumns": "100",
+                        "endOffsets": "3345"
                     }
                 }
             ]

@@ -4,8 +4,8 @@
 4
 5    <uses-sdk
 6        android:minSdkVersion="20"
-6-->C:\Users\infan\AppData\Local\Pub\Cache\hosted\pub.dev\mapbox_gl-0.15.0\android\src\main\AndroidManifest.xml
+6-->C:\Users\skraj\AppData\Local\Pub\Cache\hosted\pub.dev\mapbox_gl-0.15.0\android\src\main\AndroidManifest.xml
 7        android:targetSdkVersion="20" />
-7-->C:\Users\infan\AppData\Local\Pub\Cache\hosted\pub.dev\mapbox_gl-0.15.0\android\src\main\AndroidManifest.xml
+7-->C:\Users\skraj\AppData\Local\Pub\Cache\hosted\pub.dev\mapbox_gl-0.15.0\android\src\main\AndroidManifest.xml
 8
 9</manifest>
