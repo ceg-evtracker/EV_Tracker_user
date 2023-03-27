@@ -1,4 +1,4 @@
- import 'package:ceg_ev_user/screens/login_screen.dart';
+ import 'package:ceg_ev_user/screens/login_screen.dart'; 
  import 'package:ceg_ev_user/screens/home_screen.dart';
  import 'package:firebase_core/firebase_core.dart';
  import 'package:flutter/material.dart';
